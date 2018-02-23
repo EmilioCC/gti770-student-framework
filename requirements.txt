@@ -42,7 +42,7 @@ Markdown==2.6.10
 MarkupSafe==1.0
 Mastodon.py==1.2.1
 matplotlib==2.1.1
-mdlp-discretization==0.3
+-e git+https://github.com/hlin117/mdlp-discretization#egg=mdlp-discretization
 mistune==0.8.3
 nbconvert==5.3.1
 nbformat==4.4.0
